@@ -1,0 +1,32 @@
+{
+  "admin": {
+    "salt": "1332538ed689e41365085e009b3503e1",
+    "hash": "5be39562dfa81244e0012f1fec3ba215a282132f7abdd49d24b8782c82cf0467",
+    "role": "Administrator",
+    "active": true
+  },
+  "safety": {
+    "salt": "6d152a8d5aa99bd37d0a5cac55b73bdc",
+    "hash": "b37b6654290e7fb3cec439281248ba3d23e98381c9431c84a674d148e44de94a",
+    "role": "Safety Officer",
+    "active": true
+  },
+  "engineer": {
+    "salt": "d55a3710f4243016acd06683ae73d2ce",
+    "hash": "e1172f3fd3c8de4ab5cb0641a0effe3c189af58f3901cf4ff4ffcdd4f3175e96",
+    "role": "Mining Engineer",
+    "active": true
+  },
+  "maintenance": {
+    "salt": "93df18caa6770ce61be908366686d005",
+    "hash": "0ae14f3a0754b92a9903ff3a0286bacb6ce677e3152a32c7a157bda285b3bed1",
+    "role": "Maintenance Engineer",
+    "active": true
+  },
+  "manager": {
+    "salt": "47fae8610c381c53baada5159373607c",
+    "hash": "fa5626bf44ca10c0be00e77a0edcd6727d5ee16f76fd0539da362d5d593afb34",
+    "role": "Manager",
+    "active": true
+  }
+}
